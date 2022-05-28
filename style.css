@@ -9,6 +9,13 @@
         align-items: center;
         justify-content: center;
 }
+.github-image{
+        background-image: url("github.jpg");
+        height: 100vh;
+        background-blend-mode: overlay;
+        background-size: cover;
+        text-align: center;
+}
 .container{
         text-align: center;
 }
