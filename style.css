@@ -9,13 +9,19 @@
         align-items: center;
         justify-content: center;
 }
-.github-image{
-        background-image: url("github.jpg");
-        height: 100vh;
-        background-blend-mode: overlay;
-        background-size: cover;
-        text-align: center;
-}
 .container{
         text-align: center;
+}
+.bg-img-gg{
+        background-image: url("github.jpg");
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.7);
+        background-blend-mode: overlay;
+        background-size: cover;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        top: 20px;
 }
