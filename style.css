@@ -23,28 +23,15 @@
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.articles .post a {
-    color: #005d8a;
-    text-decoration: none;
-}
-
-.articles .post a:hover {
-    text-decoration: underline;
-}
-
 .container{
         text-align: center;
+
 }
-.bg-img-gg{
-        background-image: url("github.jpg");
+.blog1{
         text-align: center;
-        background-color: rgba(0, 0, 0, 0.7);
-        background-blend-mode: overlay;
-        background-size: cover;
-        height: 100vh;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+        color: darkblue;
         justify-content: center;
-        top: 20px;
+}
+div.p{
+        text-align:right ;
 }
