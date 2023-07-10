@@ -1,5 +1,5 @@
 .bg-image {
-        background-image: url("bg.jpg");
+        background-image: url("/images/bg-image.jpg");
         background-color: rgba(0, 0, 0, 0.7);
         background-blend-mode: overlay;
         background-size: cover;
@@ -12,6 +12,8 @@
 
 .articles {
     padding: 2rem;
+    text-align: center;
+    
 }
 
 .articles h1 {
