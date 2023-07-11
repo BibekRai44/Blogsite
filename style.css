@@ -1,5 +1,5 @@
 .bg-image {
-        background-image: url("/images/bg-image.jpg");
+        background-image: url("images/bg-image.jpg");
         background-color: rgba(0, 0, 0, 0.7);
         background-blend-mode: overlay;
         background-size: cover;
