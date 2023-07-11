@@ -8,6 +8,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+       
         
 }
 
@@ -40,4 +41,7 @@
 }
 .commands .h3{
         color: blue;
+}
+.footer .p{
+        text-align: center;
 }
